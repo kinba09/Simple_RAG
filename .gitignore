@@ -1,0 +1,27 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+#environments
+.env 
+
+# Data
+data/
+
+# OS
+.DS_Store
+
+# Vector stores
+vector_store/
+faiss_store/
+*.faiss
+*.index
+*.pkl
+*.sqlite3
